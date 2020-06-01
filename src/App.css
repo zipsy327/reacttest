@@ -1,0 +1,20 @@
+.test1{
+  color: orange;
+  background-color: lightpink;
+  width: 300px;
+}
+
+.test2{
+  color: chartreuse;
+  border: 2px solid greenyellow;
+  width: 200px; height: 200px;
+}
+
+.imgstyle1{
+  border:5px groove gray;
+}
+
+.imgstyle2{
+  border-radius: 20px;
+  padding: 10px 10px;
+}
